@@ -1,0 +1,97 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "faf40d66-24da-4db8-963d-3f95ae577249",
+  "files": [],
+  "subMetas": {
+    "291ef": {
+      "importer": "gltf-mesh",
+      "uuid": "faf40d66-24da-4db8-963d-3f95ae577249@291ef",
+      "displayName": "",
+      "id": "291ef",
+      "name": "Cube.051.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 132
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "82d49": {
+      "importer": "gltf-material",
+      "uuid": "faf40d66-24da-4db8-963d-3f95ae577249@82d49",
+      "displayName": "",
+      "id": "82d49",
+      "name": "bois.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "498a9": {
+      "importer": "gltf-scene",
+      "uuid": "faf40d66-24da-4db8-963d-3f95ae577249@498a9",
+      "displayName": "",
+      "id": "498a9",
+      "name": "shelf.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "faf40d66-24da-4db8-963d-3f95ae577249@498a9",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "faf40d66-24da-4db8-963d-3f95ae577249@291ef"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "faf40d66-24da-4db8-963d-3f95ae577249@82d49"
+      ],
+      "scenes": [
+        "faf40d66-24da-4db8-963d-3f95ae577249@498a9"
+      ]
+    }
+  }
+}

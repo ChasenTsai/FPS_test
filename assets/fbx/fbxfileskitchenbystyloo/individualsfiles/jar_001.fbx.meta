@@ -1,0 +1,114 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "05c5692f-bb27-4b02-bc69-7a4f7e1f226f",
+  "files": [],
+  "subMetas": {
+    "10a81": {
+      "importer": "gltf-mesh",
+      "uuid": "05c5692f-bb27-4b02-bc69-7a4f7e1f226f@10a81",
+      "displayName": "",
+      "id": "10a81",
+      "name": "Cylinder.006.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 696
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ac7ef": {
+      "importer": "gltf-material",
+      "uuid": "05c5692f-bb27-4b02-bc69-7a4f7e1f226f@ac7ef",
+      "displayName": "",
+      "id": "ac7ef",
+      "name": "vertverre.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "601fe": {
+      "importer": "gltf-material",
+      "uuid": "05c5692f-bb27-4b02-bc69-7a4f7e1f226f@601fe",
+      "displayName": "",
+      "id": "601fe",
+      "name": "jaune.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "abae8": {
+      "importer": "gltf-scene",
+      "uuid": "05c5692f-bb27-4b02-bc69-7a4f7e1f226f@abae8",
+      "displayName": "",
+      "id": "abae8",
+      "name": "jar_001.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "05c5692f-bb27-4b02-bc69-7a4f7e1f226f@abae8",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "05c5692f-bb27-4b02-bc69-7a4f7e1f226f@10a81"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "05c5692f-bb27-4b02-bc69-7a4f7e1f226f@ac7ef",
+        "05c5692f-bb27-4b02-bc69-7a4f7e1f226f@601fe"
+      ],
+      "scenes": [
+        "05c5692f-bb27-4b02-bc69-7a4f7e1f226f@abae8"
+      ]
+    }
+  }
+}

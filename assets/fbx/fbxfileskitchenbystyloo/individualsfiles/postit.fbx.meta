@@ -1,0 +1,97 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "42d603ac-dff9-4565-a8a7-034615d0590b",
+  "files": [],
+  "subMetas": {
+    "591ce": {
+      "importer": "gltf-mesh",
+      "uuid": "42d603ac-dff9-4565-a8a7-034615d0590b@591ce",
+      "displayName": "",
+      "id": "591ce",
+      "name": "Plane.016.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 10
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dd577": {
+      "importer": "gltf-material",
+      "uuid": "42d603ac-dff9-4565-a8a7-034615d0590b@dd577",
+      "displayName": "",
+      "id": "dd577",
+      "name": "bleuplastic.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "756ec": {
+      "importer": "gltf-scene",
+      "uuid": "42d603ac-dff9-4565-a8a7-034615d0590b@756ec",
+      "displayName": "",
+      "id": "756ec",
+      "name": "postit.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "42d603ac-dff9-4565-a8a7-034615d0590b@756ec",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "42d603ac-dff9-4565-a8a7-034615d0590b@591ce"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "42d603ac-dff9-4565-a8a7-034615d0590b@dd577"
+      ],
+      "scenes": [
+        "42d603ac-dff9-4565-a8a7-034615d0590b@756ec"
+      ]
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "81f0b359-17bb-4a0a-9cdc-c3faf9a943b7",
+  "files": [],
+  "subMetas": {
+    "c6e33": {
+      "importer": "gltf-mesh",
+      "uuid": "81f0b359-17bb-4a0a-9cdc-c3faf9a943b7@c6e33",
+      "displayName": "",
+      "id": "c6e33",
+      "name": "Cube.002.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 11276
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2b216": {
+      "importer": "gltf-material",
+      "uuid": "81f0b359-17bb-4a0a-9cdc-c3faf9a943b7@2b216",
+      "displayName": "",
+      "id": "2b216",
+      "name": "rouge.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8776f": {
+      "importer": "gltf-scene",
+      "uuid": "81f0b359-17bb-4a0a-9cdc-c3faf9a943b7@8776f",
+      "displayName": "",
+      "id": "8776f",
+      "name": "strainerred.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "81f0b359-17bb-4a0a-9cdc-c3faf9a943b7@8776f",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "81f0b359-17bb-4a0a-9cdc-c3faf9a943b7@c6e33"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "81f0b359-17bb-4a0a-9cdc-c3faf9a943b7@2b216"
+      ],
+      "scenes": [
+        "81f0b359-17bb-4a0a-9cdc-c3faf9a943b7@8776f"
+      ]
+    }
+  }
+}

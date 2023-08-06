@@ -1,0 +1,97 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5e20a284-60e4-4470-896e-632f66ef7d93",
+  "files": [],
+  "subMetas": {
+    "2f6d1": {
+      "importer": "gltf-mesh",
+      "uuid": "5e20a284-60e4-4470-896e-632f66ef7d93@2f6d1",
+      "displayName": "",
+      "id": "2f6d1",
+      "name": "Cube.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1084
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1c48c": {
+      "importer": "gltf-material",
+      "uuid": "5e20a284-60e4-4470-896e-632f66ef7d93@1c48c",
+      "displayName": "",
+      "id": "1c48c",
+      "name": "fer.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9bb01": {
+      "importer": "gltf-scene",
+      "uuid": "5e20a284-60e4-4470-896e-632f66ef7d93@9bb01",
+      "displayName": "",
+      "id": "9bb01",
+      "name": "poseustensils.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "5e20a284-60e4-4470-896e-632f66ef7d93@9bb01",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "5e20a284-60e4-4470-896e-632f66ef7d93@2f6d1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "5e20a284-60e4-4470-896e-632f66ef7d93@1c48c"
+      ],
+      "scenes": [
+        "5e20a284-60e4-4470-896e-632f66ef7d93@9bb01"
+      ]
+    }
+  }
+}

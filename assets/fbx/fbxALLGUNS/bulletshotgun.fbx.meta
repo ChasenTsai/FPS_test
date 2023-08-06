@@ -1,0 +1,147 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f2b32cdd-7de9-4d47-ad0c-83c9c253ab46",
+  "files": [],
+  "subMetas": {
+    "c500b": {
+      "importer": "gltf-mesh",
+      "uuid": "f2b32cdd-7de9-4d47-ad0c-83c9c253ab46@c500b",
+      "displayName": "",
+      "id": "c500b",
+      "name": "Cylinder.022.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1400
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f2b32cdd-7de9-4d47-ad0c-83c9c253ab46@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "f2b32cdd-7de9-4d47-ad0c-83c9c253ab46@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f2b32cdd-7de9-4d47-ad0c-83c9c253ab46@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1c48c": {
+      "importer": "gltf-material",
+      "uuid": "f2b32cdd-7de9-4d47-ad0c-83c9c253ab46@1c48c",
+      "displayName": "",
+      "id": "1c48c",
+      "name": "fer.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "37ebf": {
+      "importer": "gltf-scene",
+      "uuid": "f2b32cdd-7de9-4d47-ad0c-83c9c253ab46@37ebf",
+      "displayName": "",
+      "id": "37ebf",
+      "name": "bulletshotgun.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "f2b32cdd-7de9-4d47-ad0c-83c9c253ab46@48b02"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f2b32cdd-7de9-4d47-ad0c-83c9c253ab46@37ebf",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "f2b32cdd-7de9-4d47-ad0c-83c9c253ab46@c500b"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f2b32cdd-7de9-4d47-ad0c-83c9c253ab46@7d6ab"
+      ],
+      "materials": [
+        "f2b32cdd-7de9-4d47-ad0c-83c9c253ab46@1c48c"
+      ],
+      "scenes": [
+        "f2b32cdd-7de9-4d47-ad0c-83c9c253ab46@37ebf"
+      ]
+    }
+  }
+}

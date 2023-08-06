@@ -1,0 +1,97 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c1afd2e0-c3d3-4136-8b1f-047b7a649295",
+  "files": [],
+  "subMetas": {
+    "79664": {
+      "importer": "gltf-mesh",
+      "uuid": "c1afd2e0-c3d3-4136-8b1f-047b7a649295@79664",
+      "displayName": "",
+      "id": "79664",
+      "name": "Cube.054.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 11276
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3440c": {
+      "importer": "gltf-material",
+      "uuid": "c1afd2e0-c3d3-4136-8b1f-047b7a649295@3440c",
+      "displayName": "",
+      "id": "3440c",
+      "name": "vert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b9a67": {
+      "importer": "gltf-scene",
+      "uuid": "c1afd2e0-c3d3-4136-8b1f-047b7a649295@b9a67",
+      "displayName": "",
+      "id": "b9a67",
+      "name": "strainergreen.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c1afd2e0-c3d3-4136-8b1f-047b7a649295@b9a67",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "c1afd2e0-c3d3-4136-8b1f-047b7a649295@79664"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "c1afd2e0-c3d3-4136-8b1f-047b7a649295@3440c"
+      ],
+      "scenes": [
+        "c1afd2e0-c3d3-4136-8b1f-047b7a649295@b9a67"
+      ]
+    }
+  }
+}

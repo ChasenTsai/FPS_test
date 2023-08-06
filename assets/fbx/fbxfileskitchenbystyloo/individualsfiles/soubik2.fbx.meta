@@ -1,0 +1,97 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "62340560-615c-4661-9afb-9b2db78457bf",
+  "files": [],
+  "subMetas": {
+    "2feb1": {
+      "importer": "gltf-mesh",
+      "uuid": "62340560-615c-4661-9afb-9b2db78457bf@2feb1",
+      "displayName": "",
+      "id": "2feb1",
+      "name": "Circle.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 9532
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dd577": {
+      "importer": "gltf-material",
+      "uuid": "62340560-615c-4661-9afb-9b2db78457bf@dd577",
+      "displayName": "",
+      "id": "dd577",
+      "name": "bleuplastic.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4ae6e": {
+      "importer": "gltf-scene",
+      "uuid": "62340560-615c-4661-9afb-9b2db78457bf@4ae6e",
+      "displayName": "",
+      "id": "4ae6e",
+      "name": "soubik2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "62340560-615c-4661-9afb-9b2db78457bf@4ae6e",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "62340560-615c-4661-9afb-9b2db78457bf@2feb1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "62340560-615c-4661-9afb-9b2db78457bf@dd577"
+      ],
+      "scenes": [
+        "62340560-615c-4661-9afb-9b2db78457bf@4ae6e"
+      ]
+    }
+  }
+}

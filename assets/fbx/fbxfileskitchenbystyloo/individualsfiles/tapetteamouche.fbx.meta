@@ -1,0 +1,97 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b0a953d8-4ed5-469b-836c-52bea7a3f25d",
+  "files": [],
+  "subMetas": {
+    "bc06f": {
+      "importer": "gltf-mesh",
+      "uuid": "b0a953d8-4ed5-469b-836c-52bea7a3f25d@bc06f",
+      "displayName": "",
+      "id": "bc06f",
+      "name": "Cube.031.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2612
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1c48c": {
+      "importer": "gltf-material",
+      "uuid": "b0a953d8-4ed5-469b-836c-52bea7a3f25d@1c48c",
+      "displayName": "",
+      "id": "1c48c",
+      "name": "fer.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4c9d3": {
+      "importer": "gltf-scene",
+      "uuid": "b0a953d8-4ed5-469b-836c-52bea7a3f25d@4c9d3",
+      "displayName": "",
+      "id": "4c9d3",
+      "name": "tapetteamouche.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b0a953d8-4ed5-469b-836c-52bea7a3f25d@4c9d3",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "b0a953d8-4ed5-469b-836c-52bea7a3f25d@bc06f"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "b0a953d8-4ed5-469b-836c-52bea7a3f25d@1c48c"
+      ],
+      "scenes": [
+        "b0a953d8-4ed5-469b-836c-52bea7a3f25d@4c9d3"
+      ]
+    }
+  }
+}

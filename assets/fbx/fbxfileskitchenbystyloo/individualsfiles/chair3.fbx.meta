@@ -1,0 +1,97 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8d613a86-a216-4bf6-b318-8a2b70f5e619",
+  "files": [],
+  "subMetas": {
+    "0a48a": {
+      "importer": "gltf-mesh",
+      "uuid": "8d613a86-a216-4bf6-b318-8a2b70f5e619@0a48a",
+      "displayName": "",
+      "id": "0a48a",
+      "name": "Cube.007.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 956
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "82d49": {
+      "importer": "gltf-material",
+      "uuid": "8d613a86-a216-4bf6-b318-8a2b70f5e619@82d49",
+      "displayName": "",
+      "id": "82d49",
+      "name": "bois.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e9618": {
+      "importer": "gltf-scene",
+      "uuid": "8d613a86-a216-4bf6-b318-8a2b70f5e619@e9618",
+      "displayName": "",
+      "id": "e9618",
+      "name": "chair3.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "8d613a86-a216-4bf6-b318-8a2b70f5e619@e9618",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "8d613a86-a216-4bf6-b318-8a2b70f5e619@0a48a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "8d613a86-a216-4bf6-b318-8a2b70f5e619@82d49"
+      ],
+      "scenes": [
+        "8d613a86-a216-4bf6-b318-8a2b70f5e619@e9618"
+      ]
+    }
+  }
+}

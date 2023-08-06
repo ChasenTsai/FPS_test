@@ -1,0 +1,97 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "52b87026-16d7-4ab8-9b19-f92d40419660",
+  "files": [],
+  "subMetas": {
+    "3eb47": {
+      "importer": "gltf-mesh",
+      "uuid": "52b87026-16d7-4ab8-9b19-f92d40419660@3eb47",
+      "displayName": "",
+      "id": "3eb47",
+      "name": "Cube.056.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 316
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a972d": {
+      "importer": "gltf-material",
+      "uuid": "52b87026-16d7-4ab8-9b19-f92d40419660@a972d",
+      "displayName": "",
+      "id": "a972d",
+      "name": "VERRE.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "37c6e": {
+      "importer": "gltf-scene",
+      "uuid": "52b87026-16d7-4ab8-9b19-f92d40419660@37c6e",
+      "displayName": "",
+      "id": "37c6e",
+      "name": "glassnormal.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "52b87026-16d7-4ab8-9b19-f92d40419660@37c6e",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "52b87026-16d7-4ab8-9b19-f92d40419660@3eb47"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "52b87026-16d7-4ab8-9b19-f92d40419660@a972d"
+      ],
+      "scenes": [
+        "52b87026-16d7-4ab8-9b19-f92d40419660@37c6e"
+      ]
+    }
+  }
+}

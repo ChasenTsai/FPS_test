@@ -1,0 +1,97 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "98bf961a-4289-4e33-83ae-4065f368a13d",
+  "files": [],
+  "subMetas": {
+    "aeaac": {
+      "importer": "gltf-mesh",
+      "uuid": "98bf961a-4289-4e33-83ae-4065f368a13d@aeaac",
+      "displayName": "",
+      "id": "aeaac",
+      "name": "Circle.002.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 572
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a972d": {
+      "importer": "gltf-material",
+      "uuid": "98bf961a-4289-4e33-83ae-4065f368a13d@a972d",
+      "displayName": "",
+      "id": "a972d",
+      "name": "VERRE.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a26d2": {
+      "importer": "gltf-scene",
+      "uuid": "98bf961a-4289-4e33-83ae-4065f368a13d@a26d2",
+      "displayName": "",
+      "id": "a26d2",
+      "name": "plate.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "98bf961a-4289-4e33-83ae-4065f368a13d@a26d2",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "98bf961a-4289-4e33-83ae-4065f368a13d@aeaac"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "98bf961a-4289-4e33-83ae-4065f368a13d@a972d"
+      ],
+      "scenes": [
+        "98bf961a-4289-4e33-83ae-4065f368a13d@a26d2"
+      ]
+    }
+  }
+}
